@@ -1,6 +1,10 @@
-# 奥寺 凜太郎(Rintaro OKUDERA)
-
+# 奥寺 凜太郎 (Rintaro OKUDETA)
 名古屋大学大学院 情報学研究科 情報システム学専攻 高田研究室 博士前期課程1年
 
-- [My bio is here](https://www.linkedin.com/in/rintaro-okudera/en)
-- [プロフィール](https://www.linkedin.com/in/rintaro-okudera/)
+1st Year of Master's Course
+Embedded Real-Time Systems Lab. 
+Graduate school of Informatics, Nagoya Univ.
+
+My bio
+- [in English](https://www.linkedin.com/in/rintaro-okudera/en)
+- [in Japanese](https://www.linkedin.com/in/rintaro-okudera/)
